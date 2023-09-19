@@ -30,7 +30,7 @@ Only EIN column was removed as non beneficial variable.The NAME,APPLICATION_TYPE
 
 For the neural network, I maintained the 3 layers, but with different  input layer of 10 neurons in the first layer, 20 neurons in the second layer, and an output layer with a single neuron, and still utilized the relu activation function in the first and second layers, and the sigmoid activation function in the output layer.
 
-After training the model for 100 epochs, an accuracy of 78.35% was achieved for the testing data.
+After training the model for 100 epochs, an accuracy of 78.74% was achieved for the testing data.
 
 
 
