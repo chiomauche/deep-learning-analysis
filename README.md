@@ -57,7 +57,13 @@ IS_SUCCESSFUL—Was the money used effectively.
 
 * Saved and exported my results to an HDF5 file and named the file AlphabetSoupCharity.h5.
 
+![Alt text](<Screenshot 2023-10-21 062552.png>)
 
-Step 3: Optimize the Model
 
-Using my knowledge of TensorFlow, I  optimized my model to achieve a target predictive accuracy higher than 75%.
+# Step 3: Optimize the Model
+
+* Using my knowledge of TensorFlow, I  optimized my model to achieve a target predictive accuracy higher than 75%.
+
+![Alt text](<Screenshot 2023-10-21 062825.png>)
+
+![Alt text](<Screenshot 2023-10-21 063038.png>)
